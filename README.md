@@ -6,7 +6,7 @@
 
 
 
-#### Enlace pagina:
+#### Enlace pagina: https://barbmiguel.github.io/Actividad1-web-avanzada/
 
 Problemas: El problema inicial fue ponerme al día con la curva de aprendizaje. Entender bien la composición en HTML a la par con CSS.
 El primer problema, fue lograr dividir la hoja de vida sin usar otras herramientas como Boostrap, que estábamos viendo en clase, por lo que acomodar cada elemento tomó bastante tiempo. Habían algunas etiquetas en html que no logré comprender su funcionamiento a pesar de leer la documentación online, pero como me funcionaban, las usé. 
